@@ -1,16 +1,16 @@
 const epicMix = [
-  "Time to Pretend",
-  "O-o-oh Child",
-  "Wish You Were Here",
-  "Heroes",
-  "I Put a Spell on You",
-  "Call Me",
-  "Paper Planes",
-  "Jolene",
-  "You Don't Own Me",
-  "Fast Car",
+  "I'd Rather Go Blind",
+  "Die With a Smile",
+  "Quietly Yours",
+  "The Boy is Mine",
+  "Last Dance",
+  "Virgo Groove",
+  "Sing A Song",
+  "Dancing Queen",
+  "Water",
+  "Espresso",
   "Run the World (Girls)",
-  "Superstition"
+  "L-O-V-E"
 ];
 
 const mixList = document.querySelector(".mix");
